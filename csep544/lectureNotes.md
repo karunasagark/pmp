@@ -2,6 +2,8 @@
 
 # Lecture 1
 
+## Databases and DBMS
+## Nested loop semantics
 
 # Lecture 2
 
@@ -9,4 +11,4 @@
 ## Relational Algebra
 ## Datalog (recursion free with negation)
 ## Relational Calculus
-## 
+## Functional Dependencies

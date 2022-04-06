@@ -1,0 +1,9 @@
+- what is blocking?
+- why ON and not WHERE?
+- what is semi-join and anti-semi-join?
+- why merge join, only increments inner relation when match is found
+- materialized vs pipelining of joins?
+- 
+- paper review
+  - why is connectedness not verified in DPsize for S1 and S2
+  - 
